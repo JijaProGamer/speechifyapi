@@ -1,0 +1,15 @@
+{
+  "name": "speechifyapi",
+  "version": "1.1.5",
+  "description": "Module based on puppeteer to get free quality tts",
+  "main": "index.js",
+  "dependencies": {
+    "gaxios": "^5.0.2",
+    "random-useragent": "^0.5.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bloxxy213",
+  "license": "MIT"
+}
